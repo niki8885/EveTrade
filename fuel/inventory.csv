@@ -1,0 +1,76 @@
+OperationID,Date,Item,Operation,Quantity,Region,Price,Fees,Volume,Target,Total,Grant Total
+1,10/21/2025,Heavy Water,Incoming goods,638,C-J6MT,27.0,32.0,255.2,RYC,59.0,37642.0
+2,10/21/2025,Helium Isotopes,Incoming goods,4956,C-J6MT,1075.0,2.4,148.68,RYC,1077.4,5339594.4
+3,10/21/2025,Hydrogen Isotopes,Incoming goods,7076,C-J6MT,730.0,2.4,212.28,RYC,732.4,5182462.399999999
+4,10/21/2025,Liquid Ozone,Incoming goods,276,C-J6MT,80.0,32.0,110.4,RYC,112.0,30912.0
+5,10/21/2025,Nitrogen Isotopes,Incoming goods,4956,C-J6MT,960.0,2.4,148.68,RYC,962.4,4769654.399999999
+6,10/21/2025,Oxygen Isotopes,Incoming goods,4956,C-J6MT,990.0,2.4,148.68,RYC,992.4,4918334.399999999
+7,10/21/2025,Strontium Clathrates,Incoming goods,180,C-J6MT,3200.0,240.0,540.0,RYC,3440.0,619200.0
+8,10/21/2025,Oxygen,Incoming goods,97,C-J6MT,450.0,15.2,18.43,RYC,465.2,45124.4
+9,10/21/2025,Coolant,Incoming goods,40,C-J6MT,12750.0,60.0,30.0,RYC,12810.0,512400.0
+10,10/21/2025,Enriched Uranium,Incoming goods,4766,C-J6MT,14000.0,60.0,3574.5,RYC,14060.0,67009960.0
+11,10/21/2025,Mechanical Parts,Incoming goods,28,C-J6MT,11800.0,60.0,21.0,RYC,11860.0,332080.0
+12,10/21/2025,Robotics,Incoming goods,119,C-J6MT,86000.0,240.0,357.0,RYC,86240.0,10262560.0
+13,10/21/2025,Robotics,Incoming goods,2400,C-J6MT,84310.0,240.0,72000.0,RYC,84550.0,2029200000.0
+14,10/21/2025,Strontium Clathrates,Incoming goods,40620,C-J6MT,2910.0,240.0,121860.0,RYC,3150.0,127953000.0
+15,10/21/2025,Helium Isotopes,Incoming goods,700000,Jita,1046.0,38.4,21000.0,RYC,1084.4,759080000.0000001
+16,10/21/2025,Nitrogen Isotopes,Incoming goods,700000,Jita,793.0,38.4,21000.0,RYC,831.4,581980000.0
+17,10/21/2025,Oxygen Isotopes,Incoming goods,1000000,Jita,863.0,38.4,30000.0,RYC,901.4,901400000.0
+18,10/21/2025,Oxygen,Incoming goods,44676,C-J6MT,420.0,15.2,8488.44,RYC,435.2,19442995.2
+19,10/21/2025,Liquid Ozone,Incoming goods,710724,C-J6MT,73.01,32.0,284289.60000000003,RYC,105.01,74633127.24000001
+20,10/21/2025,Hydrogen Isotopes,Incoming goods,800000,C-J6MT,704.3,2.4,24000.0,RYC,706.6999999999999,565360000.0
+21,10/21/2025,Heavy Water,Incoming goods,345216,C-J6MT,27.03,32.0,138086.4,RYC,59.03,20378100.48
+22,10/21/2025,Coolant,Incoming goods,18276,C-J6MT,12810.0,60.0,13707.0,RYC,12870.0,235212120.0
+23,10/21/2025,Enriched Uranium,Incoming goods,8124,C-J6MT,14030.0,60.0,6093.0,RYC,14090.0,114467160.0
+24,10/21/2025,Mechanical Parts,Incoming goods,8124,C-J6MT,12070.0,60.0,6093.0,RYC,12130.0,98544120.0
+25,10/21/2025,Oxygen,Incoming goods,23526,Jita,444.2,0.0,4469.94,Anyed,444.2,10450249.2
+26,10/21/2025,Robotics,Incoming goods,1200,Jita,83080.0,0.0,3600.0,Anyed,83080.0,99696000.0
+27,10/21/2025,Mechanical Parts,Incoming goods,4278,Jita,11480.0,0.0,3208.5,Anyed,11480.0,49111440.0
+28,10/21/2025,Heavy Water,Incoming goods,181764,Jita,105.1,0.0,72705.6,Anyed,105.1,19103396.4
+29,10/21/2025,Coolant,Incoming goods,9624,Jita,11340.0,0.0,7218.0,Anyed,11340.0,109136160.0
+30,10/21/2025,Enriched Uranium,Incoming goods,4278,Jita,13480.0,0.0,3208.5,Anyed,13480.0,57667440.0
+31,10/21/2025,Strontium Clathrates,Incoming goods,21384,Jita,4852.0,0.0,64152.0,Anyed,4852.0,103755168.0
+32,10/21/2025,Nitrogen Isotopes,Incoming goods,481140,Jita,806.1,0.0,14434.2,Anyed,806.1,387846954.0
+33,10/21/2025,Liquid Ozone,Incoming goods,311850,Jita,133.5,0.0,124740.0,Anyed,133.5,41631975.0
+34,10/21/2025,Oxygen,Incoming goods,125459,Jita,444.2,0.0,23837.21,Anyed,444.2,55728887.8
+35,10/21/2025,Coolant,Incoming goods,41550,Jita,11340.0,0.0,31162.5,Anyed,11340.0,471177000.0
+36,10/21/2025,Enriched Uranium,Incoming goods,27665,Jita,13480.0,0.0,20748.75,Anyed,13480.0,372924200.0
+37,10/21/2025,Mechanical Parts,Incoming goods,47925,Jita,11480.0,0.0,35943.75,Anyed,11480.0,550179000.0
+38,10/21/2025,Robotics,Incoming goods,23862,Jita,83080.0,0.0,71586.0,Anyed,83080.0,1982454960.0
+39,10/21/2025,Liquid Ozone,Incoming goods,1044659,Jita,133.5,0.0,417863.6,Anyed,133.5,139461976.5
+40,10/21/2025,Heavy Water,Incoming goods,564404,Jita,105.1,0.0,225761.6,Anyed,105.1,59318860.4
+41,10/21/2025,Strontium Clathrates,Incoming goods,63729,Jita,4852.0,0.0,191187.0,Anyed,4852.0,309213108.0
+42,10/21/2025,Helium Isotopes,Incoming goods,293500,Jita,1046.0,0.0,8805.0,Anyed,1046.0,307001000.0
+43,10/21/2025,Hydrogen Isotopes,Incoming goods,293500,Jita,704.3,0.0,8805.0,Anyed,704.3,206712050.0
+44,10/21/2025,Nitrogen Isotopes,Incoming goods,293500,Jita,806.1,0.0,8805.0,Anyed,806.1,236590350.0
+45,10/21/2025,Oxygen Isotopes,Incoming goods,293500,Jita,863.0,0.0,8805.0,Anyed,863.0,253290500.0
+46,10/21/2025,Oxygen,Outgoing goods,9570,Anyed,0.0,0.0,1818.3,Anyed,0.0,0.0
+47,10/21/2025,Coolant,Outgoing goods,3920,Anyed,0.0,0.0,2940.0,Anyed,0.0,0.0
+48,10/21/2025,Enriched Uranium,Outgoing goods,1740,Anyed,0.0,0.0,1305.0,Anyed,0.0,0.0
+49,10/21/2025,Mechanical Parts,Outgoing goods,1740,Anyed,0.0,0.0,1305.0,Anyed,0.0,0.0
+50,10/21/2025,Robotics,Outgoing goods,500,Anyed,0.0,0.0,1500.0,Anyed,0.0,0.0
+51,10/21/2025,Liquid Ozone,Outgoing goods,152190,C-J6MT,0.0,0.0,60876.0,Anyed,0.0,0.0
+52,10/21/2025,Heavy Water,Outgoing goods,76095,C-J6MT,0.0,0.0,30438.0,Anyed,0.0,0.0
+53,10/21/2025,Strontium Clathrates,Outgoing goods,8700,C-J6MT,0.0,0.0,26100.0,Anyed,0.0,0.0
+54,10/21/2025,Nitrogen Isotopes,Outgoing goods,195670,C-J6MT,0.0,0.0,5870.099999999999,Anyed,0.0,0.0
+55,10/21/2025,Oxygen,Outgoing goods,44676,Anyed,0.0,0.0,8488.44,RYC,0.0,0.0
+56,10/21/2025,Coolant,Outgoing goods,18276,Anyed,0.0,0.0,13707.0,RYC,0.0,0.0
+57,10/21/2025,Enriched Uranium,Outgoing goods,8124,Anyed,0.0,0.0,6093.0,RYC,0.0,0.0
+58,10/21/2025,Mechanical Parts,Outgoing goods,8124,Anyed,0.0,0.0,6093.0,RYC,0.0,0.0
+59,10/21/2025,Robotics,Outgoing goods,2400,RYC,0.0,0.0,7200.0,RYC,0.0,0.0
+60,10/21/2025,Liquid Ozone,Outgoing goods,710724,Anyed,0.0,0.0,284289.60000000003,RYC,0.0,0.0
+61,10/21/2025,Heavy Water,Outgoing goods,345216,Anyed,0.0,0.0,138086.4,RYC,0.0,0.0
+62,10/21/2025,Strontium Clathrates,Outgoing goods,40620,Anyed,0.0,0.0,121860.0,RYC,0.0,0.0
+63,10/21/2025,Helium Isotopes,Outgoing goods,125298,Anyed,0.0,0.0,3758.94,RYC,0.0,0.0
+64,10/21/2025,Hydrogen Isotopes,Outgoing goods,456894,Anyed,0.0,0.0,13706.82,RYC,0.0,0.0
+65,10/21/2025,Nitrogen Isotopes,Outgoing goods,152298,Anyed,0.0,0.0,4568.94,RYC,0.0,0.0
+66,10/21/2025,Oxygen Isotopes,Outgoing goods,152298,Anyed,0.0,0.0,4568.94,RYC,0.0,0.0
+67,10/21/2025,Oxygen,Outgoing goods,13398,,0.0,0.0,2545.62,Anyed,0.0,0.0
+68,10/21/2025,Coolant,Outgoing goods,5488,,0.0,0.0,4116.0,Anyed,0.0,0.0
+69,10/21/2025,Enriched Uranium,Outgoing goods,2436,,0.0,0.0,1827.0,Anyed,0.0,0.0
+70,10/21/2025,Mechanical Parts,Outgoing goods,2436,,0.0,0.0,1827.0,Anyed,0.0,0.0
+71,10/21/2025,Robotics,Outgoing goods,70,,0.0,0.0,210.0,Anyed,0.0,0.0
+72,10/21/2025,Liquid Ozone,Outgoing goods,213066,,0.0,0.0,85226.40000000001,Anyed,0.0,0.0
+73,10/21/2025,Strontium Clathrates,Outgoing goods,12180,,0.0,0.0,36540.0,Anyed,0.0,0.0
+74,10/21/2025,Heavy Water,Outgoing goods,103488,,0.0,0.0,41395.2,Anyed,0.0,0.0
+75,10/21/2025,Nitrogen Isotopes,Outgoing goods,273938,,0.0,0.0,8218.14,Anyed,0.0,0.0

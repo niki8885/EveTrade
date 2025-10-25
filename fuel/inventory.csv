@@ -74,3 +74,23 @@ OperationID,Date,Item,Operation,Quantity,Region,Price,Fees,Volume,Target,Total,G
 73,10/21/2025,Strontium Clathrates,Outgoing goods,12180,,0.0,0.0,36540.0,Anyed,0.0,0.0
 74,10/21/2025,Heavy Water,Outgoing goods,103488,,0.0,0.0,41395.2,Anyed,0.0,0.0
 75,10/21/2025,Nitrogen Isotopes,Outgoing goods,273938,,0.0,0.0,8218.14,Anyed,0.0,0.0
+76,10/22/2025,Robotics,Incoming goods,3200,C-J6MT,81180.0,240.0,9600.0,RYC,81420.0,260544000.0
+77,10/22/2025,Oxygen,Incoming goods,59600,C-J6MT,423.2,15.2,11324.0,RYC,438.4,26128640.0
+78,10/22/2025,Mechanical Parts,Incoming goods,10832,C-J6MT,12240.0,60.0,8124.0,RYC,12300.0,133233600.0
+79,10/22/2025,Liquid Ozone,Incoming goods,947632,C-J6MT,76.14,32.0,379052.8000000001,RYC,108.14,102476924.48
+80,10/22/2025,Enriched Uranium,Incoming goods,10832,C-J6MT,14230.0,60.0,8124.0,RYC,14290.0,154789280.0
+81,10/22/2025,Coolant,Incoming goods,24500,C-J6MT,12580.0,60.0,18375.0,RYC,12640.0,309680000.0
+82,10/23/2025,Heavy Water,Incoming goods,460288,C-J6MT,23.03,32.0,184115.2,RYC,55.03,25329648.64
+83,10/25/2025,Strontium Clathrates,Incoming goods,54160,C-J6MT,3302.0,240.0,162480.0,RYC,3542.0,191834720.0
+84,10/25/2025,Nitrogen Isotopes,Outgoing goods,304596,,0.0,0.0,9137.88,RYC,0.0,0.0
+85,10/25/2025,Helium Isotopes,Outgoing goods,304596,,0.0,0.0,9137.88,RYC,0.0,0.0
+86,10/25/2025,Oxygen Isotopes,Outgoing goods,304596,,0.0,0.0,9137.88,RYC,0.0,0.0
+87,10/25/2025,Hydrogen Isotopes,Outgoing goods,304596,,0.0,0.0,9137.88,RYC,0.0,0.0
+88,10/25/2025,Heavy Water,Outgoing goods,460288,,0.0,0.0,184115.2,RYC,0.0,0.0
+89,10/25/2025,Liquid Ozone,Outgoing goods,947632,,0.0,0.0,379052.8000000001,RYC,0.0,0.0
+90,10/25/2025,Strontium Clathrates,Outgoing goods,54160,,0.0,0.0,162480.0,RYC,0.0,0.0
+91,10/25/2025,Oxygen,Outgoing goods,59568,,0.0,0.0,11317.92,RYC,0.0,0.0
+92,10/25/2025,Coolant,Outgoing goods,24368,,0.0,0.0,18276.0,RYC,0.0,0.0
+93,10/25/2025,Enriched Uranium,Outgoing goods,10832,,0.0,0.0,8124.0,RYC,0.0,0.0
+94,10/25/2025,Mechanical Parts,Outgoing goods,10832,,0.0,0.0,8124.0,RYC,0.0,0.0
+95,10/25/2025,Robotics,Outgoing goods,3200,,0.0,0.0,9600.0,RYC,0.0,0.0

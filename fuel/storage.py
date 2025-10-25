@@ -166,7 +166,6 @@ def plot_stock(stock_df: pd.DataFrame, title: str = None):
     plt.tight_layout()
     plt.show()
 
-
 Anyed_fifo = calculate_stock(target="Anyed", method="FIFO")
 RYC_fifo = calculate_stock(target="RYC", method="FIFO")
 

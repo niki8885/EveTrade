@@ -166,6 +166,8 @@ def plot_stock(stock_df: pd.DataFrame, title: str = None):
     plt.tight_layout()
     plt.show()
 
+add_inventory_entry("Strontium Clathrates", "Incoming goods", 33670, "C-J6MT", 3701.00, "RYC")
+
 Anyed_fifo = calculate_stock(target="Anyed", method="FIFO")
 RYC_fifo = calculate_stock(target="RYC", method="FIFO")
 

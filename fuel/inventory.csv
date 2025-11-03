@@ -94,3 +94,10 @@ OperationID,Date,Item,Operation,Quantity,Region,Price,Fees,Volume,Target,Total,G
 93,10/25/2025,Enriched Uranium,Outgoing goods,10832,,0.0,0.0,8124.0,RYC,0.0,0.0
 94,10/25/2025,Mechanical Parts,Outgoing goods,10832,,0.0,0.0,8124.0,RYC,0.0,0.0
 95,10/25/2025,Robotics,Outgoing goods,3200,,0.0,0.0,9600.0,RYC,0.0,0.0
+96,11/02/2025,Mechanical Parts,Incoming goods,6742,C-J6MT,12440.0,60.0,5056.5,RYC,12500.0,84275000.0
+97,11/02/2025,Robotics,Incoming goods,1881,C-J6MT,85620.0,240.0,5643.0,RYC,85860.0,161502660.0
+98,11/02/2025,Enriched Uranium,Incoming goods,2004,C-J6MT,12910.0,60.0,1503.0,RYC,12970.0,25991880.0
+99,11/02/2025,Oxygen,Incoming goods,37101,C-J6MT,430.5,15.2,7049.1900000000005,RYC,445.7,16535915.7
+100,11/02/2025,Liquid Ozone,Incoming goods,591994,C-J6MT,82.06,32.0,236797.6,RYC,114.06,67522835.64
+101,11/02/2025,Hydrogen Isotopes,Incoming goods,315631,C-J6MT,560.78,2.4,9468.93,RYC,563.18,177757066.57999998
+102,11/03/2025,Strontium Clathrates,Incoming goods,33670,C-J6MT,3701.0,240.0,101010.0,RYC,3941.0,132693470.0

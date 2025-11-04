@@ -166,7 +166,11 @@ def plot_stock(stock_df: pd.DataFrame, title: str = None):
     plt.tight_layout()
     plt.show()
 
-add_inventory_entry("Strontium Clathrates", "Incoming goods", 33670, "C-J6MT", 3701.00, "RYC")
+add_inventory_entry("Heavy Water", "Incoming goods", 287042, "C-J6MT", 32.01, "RYC")
+add_inventory_entry("Heavy Water", "Incoming goods", 86304, "C-J6MT", 32.01, "RYC")
+add_inventory_entry("Robotics", "Incoming goods", 600, "C-J6MT", 83480.00, "RYC")
+add_inventory_entry("Oxygen", "Incoming goods", 11169, "C-J6MT", 431.40, "RYC")
+add_inventory_entry("Coolant", "Incoming goods", 15058, "C-J6MT", 11990.00, "RYC")
 
 Anyed_fifo = calculate_stock(target="Anyed", method="FIFO")
 RYC_fifo = calculate_stock(target="RYC", method="FIFO")
